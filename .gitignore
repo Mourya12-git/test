@@ -1,0 +1,45 @@
+# Virtual environments
+Lib/
+venv/
+env/
+.venv/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Test-related files and reports
+.pytest_cache/
+reports/
+htmlcov/
+coverage.xml
+
+# Ignore Selenium screenshots or logs
+reports/screenshots/
+logs/
+*.log
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Compiled C extensions
+*.so
+
+# MyPy type check files
+.mypy_cache/
+
+# Local env files
+.env
+
+
+
+
