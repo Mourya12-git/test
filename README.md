@@ -15,7 +15,7 @@ The automation covers:
 
 ## 🛠 Tech Stack
 - **Programming Language**: Python
-- **Automation Tool**: Selenium WebDriver
+- **Automation Tool**: Selenium 
 - **Test Framework**: PyTest
 - **Design Pattern**: Page Object Model (POM)
 - **Reporting**: HTMLTestRunner / PyTest HTML reports
