@@ -1,7 +1,7 @@
 # E-Commerce Web Automation Framework (Python + Selenium + PyTest)
 
 ## 📌 Overview
-This project automates critical workflows of an **E-Commerce web application** using **Selenium WebDriver** with Python.  
+This project automates critical workflows of an **E-Commerce web application** using **Selenium ** with Python.  
 It is designed with the **Page Object Model (POM)** for maintainability and **PyTest** for test execution.
 
 The automation covers:
@@ -20,7 +20,7 @@ The automation covers:
 - **Design Pattern**: Page Object Model (POM)
 - **Reporting**: HTMLTestRunner / PyTest HTML reports
 - **Data Storage**: JSON for test data
-- **CI/CD**: Jenkins (basic integration)
+
 
 ---
 
