@@ -12,7 +12,7 @@ def browserinstance(request):
     if browsername=="Chrome":
         opt=webdriver.ChromeOptions()
         opt.add_argument("--incognito")
-        #opt.add_extension("F:\Bunty\PythonPractice\SeleniumScripts\AdBlock-—-block-ads-across-the-web-Chrome-Web-Store.crx")
+      
         driver=webdriver.Chrome(options=opt)
     elif browsername=="Firefox":
         driver=webdriver.Firefox
