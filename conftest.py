@@ -12,7 +12,6 @@ def browserinstance(request):
     if browsername=="Chrome":
         opt=webdriver.ChromeOptions()
         opt.add_argument("--incognito")
-      
         driver=webdriver.Chrome(options=opt)
     elif browsername=="Firefox":
         driver=webdriver.Firefox
